@@ -1,0 +1,1 @@
+Simple demo showing how the Cake Pattern may be applied to inject a FizzBuzz application with different implementations of the FizzBuzz kata at runtime depending on command line arguments.
